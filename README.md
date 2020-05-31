@@ -9,5 +9,6 @@ Create a folder named "plots" on you pc/laptop where the python file in located 
 
 Here is a gif:
 
+![gif_image](https://raw.githubusercontent.com/chandradharrao/Sorting-Algorithm-VisualizerRunning-bar-graph-using-matplotlib-and-pygame/master/graph.gif)
 
 
