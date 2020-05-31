@@ -7,5 +7,5 @@ Then saved the graph for every year and used pygame to blit the images to make t
 
 Here is a gif:
 
-![image](https://raw.githubusercontent.com/chandradharrao/Sorting-Algorithm-VisualizerRunning-bar-graph-using-matplotlib-and-pygame/master/gif.gif)
+![gif_image](https://raw.githubusercontent.com/chandradharrao/Sorting-Algorithm-VisualizerRunning-bar-graph-using-matplotlib-and-pygame/master/gif.gif)
 
