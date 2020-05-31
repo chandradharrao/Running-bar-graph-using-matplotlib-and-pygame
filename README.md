@@ -9,6 +9,6 @@ Create a folder named "plots" on you pc/laptop where the python file in located 
 
 Here is a gif:
 
-![alt text](https://raw.github.com/chandradharrao/Running-bar-graph-using-matplotlib-and-pygame/master/graph.png)
+![alt text](https://raw.github.com/chandradharrao/Running-bar-graph-using-matplotlib-and-pygame/master/graph.gif)
 
 
