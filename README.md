@@ -5,6 +5,8 @@ I used matplotlib to plot the graph for the top 10 most populous cities every ye
 
 Then saved the graph for every year and used pygame to blit the images to make the animation.
 
+Create a folder named "plots" on you pc/laptop where the python file in located for it to place all the plots.
+
 Here is a gif:
 
 ![gif_image](https://raw.githubusercontent.com/chandradharrao/Sorting-Algorithm-VisualizerRunning-bar-graph-using-matplotlib-and-pygame/master/gif.gif)
